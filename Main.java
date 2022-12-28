@@ -92,13 +92,13 @@ class main
 				int temp3=sc.nextInt();
 				if(temp3==1)
 				{
-					System.out.println("Enter Amoumt");
+					System.out.println("Enter Amount");
 					double amt1=sc.nextDouble();
 					s.deposit(amt1);
 				}
 				else if(temp3==2)
 				{
-					System.out.println("Enter Amoumt");
+					System.out.println("Enter Amount");
 					double amt1=sc.nextDouble();
 					s.withdraw(amt1);
 				}
@@ -119,13 +119,13 @@ class main
 				int temp3=sc.nextInt();
 				if(temp3==1)
 				{
-					System.out.println("Enter Amoumt");
+					System.out.println("Enter Amount");
 					double amt1=sc.nextDouble();
 					c.deposit(amt1);
 				}
 				else if(temp3==2)
 				{
-					System.out.println("Enter Amoumt");
+					System.out.println("Enter Amount");
 					double amt1=sc.nextDouble();
 					c.withdraw(amt1);
 
